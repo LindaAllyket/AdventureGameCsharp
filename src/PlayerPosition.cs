@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace TextAdventure
 {
-    class Field
+    class  PlayerPosition 
     {
-        public int largitude;
-        public string longitude;
-
-        public 
-
+        public int playerpositionlarg= 0;
+        public int playerpositionlong = 0;
+        
+           
     }
 }
